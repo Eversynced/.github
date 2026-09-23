@@ -10,7 +10,7 @@
   <a href="https://eversynced.com">
     <img src="https://img.shields.io/badge/Website-285071?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://eversynced.com/pheebs">
+  <a href="https://pheebs.ai">
     <img src="https://img.shields.io/badge/📡_Meet_Pheebs-E38750?style=for-the-badge" alt="Meet Pheebs">
   </a>
 </div>
